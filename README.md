@@ -22,7 +22,7 @@ VOXEL RPG — action-RPG от третьего лица в духе Cube World. 
 
 ![Демонстрация игры](media/demo.gif)
 
-**[Смотреть видео целиком — 53 секунды, 1080p (MP4)](media/demo.mp4)**
+**[Скачать видео целиком — 53 секунды, 1080p (MP4, 24 МБ)](https://github.com/morinomiyamoto/VoxelRPG/raw/main/media/demo.mp4)**
 
 </div>
 
